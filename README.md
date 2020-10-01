@@ -1,2 +1,2 @@
 # ImageSearch
-ImageSearch using React
+ImageSearch using React by Ayush Anand
